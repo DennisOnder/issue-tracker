@@ -1,5 +1,3 @@
-# issue-tracker #
-
 # Issue Tracker Application #
 
 ### Made using JavaScript ###
