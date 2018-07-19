@@ -1,0 +1,21 @@
+.jumbotron h3{
+    padding-bottom: 1em;
+}
+
+.container-fluid {
+    width: 75%;
+}
+
+.container-fluid h1 {
+    padding: 1em;
+}
+
+.well {
+    background-color: #E9ECEF;
+    padding: 1em;
+    border-radius: 5px;
+}
+
+#close {
+    margin-right: 10px;
+}
